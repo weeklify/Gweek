@@ -1,2 +1,2 @@
-# gweeked
-Grafik Week's open source code (well, kind of)
+# Gweeked
+_Grafik Week's open source code (well, kind of)_
